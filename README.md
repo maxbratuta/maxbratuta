@@ -4,8 +4,6 @@
   <br><br>
   <samp>
     Hi! 👋 <b>I'm Max</b>, <b>PHP Back End Developer</b> with a designer touch.
-    <br><br>
-    Currently working on my e-commerce pet-project<br> for <i>the online store of minimalistic clothes</i> <b><a href="https://github.com/maxbratuta/essentialistic-store-app" target="_blank">Essentialistic</a></b> 🌿
     <br><br><br>
     I believe that <b>IT is primarily about people<br> and relationships</b> following with product and development.
     <br><br>
