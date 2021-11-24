@@ -7,7 +7,7 @@
     <br><br><br>
     I believe that <b>IT is primarily about people<br> and relationships</b> following with product and development.
     <br><br>
-    <img src="https://i1.wp.com/analyticsindiamag.com/wp-content/uploads/2019/06/giphy-5.gif" align="center">
+    <img src="https://media1.giphy.com/media/xULW8mqENpyVCnNDgs/giphy.gif?cid=790b7611aa06b95eba4a4e8527a4e3e9b90f4292412f5f57&rid=giphy.gif" align="center">
     <br><br><br>
     I'm a software engineer passionate about creating something<br>
     extraordinary through simple things, something that will be<br>
