@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://cv.djinni.co/85/d2ebf418a251183062214ee11d50f8/Maksym_Bratuta_CV_Full_Stack_Software_Engineer.pdf" rel="nofollow" target="_blank">
-      <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&amp;logo=adobe" style="max-width: 100%;">
-  </a>
   <a href="https://www.linkedin.com/in/maksym-bratuta/" rel="nofollow" target="_blank">
       <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin" style="max-width: 100%;">
   </a>
